@@ -18,4 +18,12 @@
 ### 2️⃣ **Add `.so` Files to Your Project**  
 Place the .so folders in  your app’s `jniLibs/` folder:  
 Example : 
+
 <img width="251" alt="image" src="https://github.com/user-attachments/assets/ebf83581-0105-4b1f-b781-611d2375a415" />
+
+
+### 3️⃣ **Load the ggdetection library**
+
+```<Java>
+//  System.loadLibrary("ggdetection")
+```
