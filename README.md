@@ -11,7 +11,7 @@
 ## 🔧 How to Integrate  
 
 ### 1️⃣ **Download the Precompiled `.so` Files**  
-📥 Get the latest release from [Releases](https://github.com/YOUR-USERNAME/Anti_GameGuardian/releases).  
+📥 Get the latest release from [Releases](https://github.com/Kahllo/Anti_GameGuardian/releases).  
 
 ---
 
@@ -27,3 +27,13 @@ Example :
 ```<Java>
 //  System.loadLibrary("ggdetection")
 ```
+
+
+4️⃣ Demo Video : 
+
+
+https://github.com/user-attachments/assets/7223ad1b-c6a1-473b-a23e-7055e06e8bf1
+
+
+
+
