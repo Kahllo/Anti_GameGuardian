@@ -36,4 +36,6 @@ https://github.com/user-attachments/assets/7223ad1b-c6a1-473b-a23e-7055e06e8bf1
 
 
 
+**📜 License & Usage**  
 
+This is a proprietary anti-cheat solution. No source code is provided.
